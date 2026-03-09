@@ -1,0 +1,8 @@
+scipy>=1.7.0
+imutils>=0.5.4
+numpy>=1.19.5
+dlib>=19.22.0
+opencv-python>=4.5.3
+pygame>=2.0.1
+matplotlib>=3.4.3
+psutil>=5.8.0 
