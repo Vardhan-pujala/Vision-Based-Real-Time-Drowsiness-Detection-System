@@ -36,6 +36,14 @@ This system uses computer vision techniques to monitor eye movements and detect 
 - `Alert.wav` → Alarm sound
 - `requirements.txt` → Required Python libraries
 
+- ## Download Required Model
+
+Download the dlib facial landmark model from:
+
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
+Extract the file and place it in the project folder before running the program.
+
 ---
 
 ## 📊 Project Images
