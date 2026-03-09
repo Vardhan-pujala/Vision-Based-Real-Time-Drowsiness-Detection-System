@@ -1,0 +1,24 @@
+{
+    "settings": {
+        "eye_threshold": 0.3,
+        "yawn_threshold": 20.0,
+        "gaze_threshold": 30,
+        "head_tilt_threshold": 10,
+        "alerts_enabled": true,
+        "consecutive_alerts_before_emergency": 3,
+        "alert_cooldown": 300,
+        "alert_email": "",
+        "alert_phone": "",
+        "notification_enabled": false,
+        "custom_alarm_sound": ""
+    },
+    "stats": {
+        "total_sessions": 67,
+        "total_duration": 4097.335154294968,
+        "drowsiness_events": 45,
+        "yawn_count": 212,
+        "gaze_away_count": 17,
+        "head_tilt_events": 481,
+        "alerts_sent": 0
+    }
+}
